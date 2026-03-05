@@ -15,5 +15,6 @@
             <button type="tag" label="Caminos"/>
             <button type="tag" label="Fuentes"/>
             <button type="tag" label="Juegos infantiles"/>
+        </row>
     </layout>
 </layouts>
