@@ -1,0 +1,18 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="voicerec" icon="logo_voice"/>
+            <button type="picture" icon="logo_camera"/>
+            <button type="textnote" icon="logo_textnote"/>
+        </row>
+        <row>
+            <button type="tag" label="Bancas" icon="infraestructura_vial_icons/tramo-inicio.png" />
+            <button type="tag" label="Tubos de agua"/>
+            <button type="tag" label="Alumbrado"/>
+        </row>
+        <row>
+            <button type="tag" label="Caminos" icon="infraestructura_vial_icons/tramo-fin.png" />
+            <button type="tag" label="Fuentes" icon="infraestructura_vial_icons/empozamiento.png"/>
+            <button type="tag" label="Juegos infantiles" icon="infraestructura_vial_icons/espaldon.png"/>
+    </layout>
+</layouts>
