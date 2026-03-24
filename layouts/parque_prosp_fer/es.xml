@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="voicerec"/>
+            <button type="picture"/>
+            <button type="textnote"/>
+        </row>
+        <row>
+            <button type="tag" label="Árbol"/>
+            <button type="tag" label="Palmera"/>
+            <button type="tag" label="Tendido Eléctrico"/>
+        </row>
+        <row>
+            <button type="tag" label="Alumbrado Público"/>
+            <button type="tag" label="Banca"/>
+            <button type="tag" label="Basurero"/>
+        </row>
+        <row>
+            <button type="tag" label="Acera"/>
+            <button type="tag" label="Monumento"/>
+            <button type="tag" label="Parada Bus"/>
+        </row>
+        <row>
+            <button type="tag" label="Señal Vertical"/>
+        </row>
+    </layout>
+</layouts>
